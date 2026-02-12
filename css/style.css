@@ -318,8 +318,7 @@ a {
 
 .hero-section1 {
   width: 100%;
-  background-image:
-    linear-gradient(#917985, #0003666d), url(Images/Exec-class-scaled.png);
+  background-image:linear-gradient(#917985, #0003666d), url(Images/Exec-class-scaled.png);
   background-size: cover;
   height: 700px;
 }
